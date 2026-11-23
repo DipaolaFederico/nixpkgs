@@ -7537,6 +7537,11 @@
     github = "diogox";
     githubId = 13244408;
   };
+  dipaolafederico = {
+    name = "Federico Di Paola";
+    github = "DipaolaFederico";
+    githubId = 65874112;
+  };
   dipinhora = {
     email = "dipinhora+github@gmail.com";
     github = "dipinhora";
